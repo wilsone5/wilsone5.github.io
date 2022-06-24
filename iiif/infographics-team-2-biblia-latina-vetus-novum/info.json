@@ -1,6 +1,6 @@
 {
   "tiles" : [ {
-    "scaleFactors" : [ 1 ],
+    "scaleFactors" : [ 1, 2, 4, 8 ],
     "width" : 1280,
     "height" : 1280
   } ],
@@ -14,7 +14,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3741,
-  "@id" : "http://localhost:8887/iiif/infographics-team-2-biblia-latina-vetus-novum",
+  "@id" : "http://wilsone5.github.io/iiif/infographics-team-2-biblia-latina-vetus-novum",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 8000
 }
