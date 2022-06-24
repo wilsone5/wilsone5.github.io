@@ -1,0 +1,29 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2, 4, 8 ],
+    "width" : 768,
+    "height" : 768
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 425,
+    "height" : 567
+  }, {
+    "width" : 531,
+    "height" : 708
+  }, {
+    "width" : 708,
+    "height" : 945
+  }, {
+    "width" : 1063,
+    "height" : 1417
+  }, {
+    "width" : 2126,
+    "height" : 2835
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2126,
+  "@id" : "http://localhost:8887/iiif/infographics-team-4-ege-fifty-leaves",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2835
+}
