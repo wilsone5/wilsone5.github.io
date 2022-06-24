@@ -14,7 +14,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3741,
-  "@id" : "http://wilsone5.github.io/iiif/infographics-team-2-biblia-latina-vetus-novum",
+  "@id" : "https://wilsone5.github.io/iiif/infographics-team-2-biblia-latina-vetus-novum",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 8000
 }
