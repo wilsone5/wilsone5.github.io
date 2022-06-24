@@ -1,6 +1,6 @@
 {
   "tiles" : [ {
-    "scaleFactors" : [ 1, 2, 4 ],
+    "scaleFactors" : [ 1, 2, 4, 8 ],
     "width" : 1024,
     "height" : 1024
   } ],
@@ -20,7 +20,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3413,
-  "@id" : "http://localhost:8887/iiif/infographics-team-3-biblia-latina-anatomy",
+  "@id" : "https://wilsone5.github.io/iiif/infographics-team-3-biblia-latina-anatomy",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 4000
 }
