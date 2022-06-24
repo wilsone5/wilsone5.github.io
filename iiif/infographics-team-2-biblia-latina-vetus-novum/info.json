@@ -1,6 +1,6 @@
 {
   "tiles" : [ {
-    "scaleFactors" : [ 1, 2, 4, 8 ],
+    "scaleFactors" : [ 1 ],
     "width" : 1280,
     "height" : 1280
   } ],
